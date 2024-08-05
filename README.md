@@ -4,20 +4,19 @@
 Project Ovrview- This machine learning project is associated  with predicting laptop prices using a dataset 
 containing various laptop specifications. The goal was to build a predictive model
 that accurately estimates laptop prices.
- 
-The dataset includes information on laptops and their prices. The key features used for prediction are:
+ The dataset includes information on laptops and their prices. The key features used for prediction are:
 
-## Company: The brand of the laptop.
-## TypeName: The type or category of the laptop (e.g., Gaming, Ultrabook).
-## Ram: Amount of RAM in GB.
-## Weight: Weight of the laptop.
-##Touchscreen: Whether the laptop has a touchscreen (Yes/No).
-## ppi: Pixels per inch (calculated from screen resolution and screen size).
-## Cpu Brand: The brand of the CPU.
-## HDD: Hard Disk Drive capacity in GB.
-## SSD: Solid State Drive capacity in GB.
-## Gpu brand: The brand of the GPU.
-## os: Operating system.
+- Company: The brand of the laptop.
+- TypeName: The type or category of the laptop (e.g., Gaming, Ultrabook).
+- Ram: Amount of RAM in GB.
+- Weight: Weight of the laptop.
+-Touchscreen: Whether the laptop has a touchscreen (Yes/No).
+- ppi: Pixels per inch (calculated from screen resolution and screen size).
+- Cpu Brand: The brand of the CPU.
+- HDD: Hard Disk Drive capacity in GB.
+- SSD: Solid State Drive capacity in GB.
+- Gpu brand: The brand of the GPU.
+- os: Operating system.
 
 ## Data Preprocessing
 Before training the models, the data underwent several preprocessing steps like filled missing data , converted categorical variables into numeric variables,
