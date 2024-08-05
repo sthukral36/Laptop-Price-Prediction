@@ -3,7 +3,7 @@
 Project Ovrview- This machine learning project is associated  with predicting laptop prices using a dataset 
 containing various laptop specifications. The goal was to build a predictive model
 that accurately estimates laptop prices.
-
+ 
 The dataset includes information on laptops and their prices. The key features used for prediction are:
 
 ## Company: The brand of the laptop.
